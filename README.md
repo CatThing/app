@@ -1,3 +1,5 @@
+![alt text](https://github.com/CatThing/app/blob/main/logo2.png?raw=true)
+
 # Cat Thing VPN
 
 Unlock the potential of secure, private, and unrestricted internet access with Cat Thing. More than just a free VPN service, Cat Thing is your dependable gateway to the world of the web, free from prying eyes and undue restrictions. Our robust framework ensures a completely trace-free browsing experience, a promise we can deliver on with no obligations on your part.
