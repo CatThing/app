@@ -1,4 +1,4 @@
-![alt text](https://github.com/CatThing/app/blob/main/logo2.png?raw=true)
+<img src="https://github.com/CatThing/app/blob/main/logo2.png?raw=true" width="100">
 
 # Cat Thing VPN
 
